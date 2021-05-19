@@ -1,0 +1,13 @@
+.btn-custom-done {
+    background:rgb(91, 228, 216);
+    border-radius: 10px;
+}
+
+.btn-negative {
+    background: rgb(119, 123, 179);
+    border-radius: 10px;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}
